@@ -102,7 +102,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url(../Photos/360_F_397287904_5B9j7LBLVccN2maTr4V4vYl9JZ51UI5Q.jpg), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url(../Photos/Hero.jpg), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -237,19 +237,19 @@ main {
 /* TODO: Add portfolio project images here using background images*/
 
 .run-buddy {
- background-image: url(../Photos/maxresdefault.jpg);
+ background-image: url(../Photos/Surfing.jpg);
 }
 
 .led-wall {
-background-image: url(../Photos/BMJPublicHealthHearingLossJan17.webp);
+background-image: url(../Photos/gaming.webp);
 }
 
 .react-calc {
-  background-image: url(../Photos/busy-restaurant-kitchen-stockcake.jpg);
+  background-image: url(../Photos/Cooking.jpg);
 }
 
 .pastel-puzzles {
-  background-image: url(../Photos/hq720.jpg);
+  background-image: url(../Photos/thumb16.jpg);
 }
 
 .surf-report {

@@ -1,5 +1,12 @@
 # 02 Advanced CSS: Portfolio
 
+---
+
+**Live Demo:** [zero2-advanced-css.onrender.com](https://zero2-advanced-css.onrender.com)  
+**GitHub Repo:** [github.com/PHTMGatt/02-Advanced-CSS](https://github.com/PHTMGatt/02-Advanced-CSS)
+
+---
+
 ## Your Task
 
 Welcome to this week's Challenge! This week, you'll build a portfolio page.
